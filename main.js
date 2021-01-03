@@ -145,7 +145,7 @@ function drawSecondLaw(){
   context.drawImage(sun,x-c - sun_x_offset,y-sun_y_offset);
   // earth
   const G = 6.674 * Math.pow(10,-11);
-  const M = 8  * Math.pow(10,7);
+  const M = 5  * Math.pow(10,7);
   const MI = G*M;
   var earth_x = a*Math.cos(t2);
   var earth_y = b*Math.sin(t2);
