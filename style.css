@@ -1,6 +1,6 @@
 html{
     scroll-behavior: smooth;
-    background-image: url("../images/b.jpg");
+    background-image: url("images/b.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -46,7 +46,7 @@ html{
 
 .article header{
     z-index: 3;
-    background-image: url("../images/f.jpg");
+    background-image: url("images/f.jpg");
     opacity: 0.8;
 	font-size: xxx-large;
 	background-size: cover;
@@ -64,7 +64,7 @@ html{
 
 .article_content{
 	z-index: 2;
-    background-image: url("../images/e.jpg");
+    background-image: url("images/e.jpg");
     opacity: 0.8;
 	font-size: x-large;
 	background-size: cover;
